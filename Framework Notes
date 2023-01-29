@@ -1,0 +1,40 @@
+Framework Notes
+
+1. TDD: Test Driven Development
+2. BDD: Behavior Driven Development
+
+Integrations:
+TestNG
+Selenium
+Webdrivermanager
+APachePOI
+Properties file
+Reports
+Git
+Maven
+Jenkins
+
+Structure:
+src/main/java: contain the java and selenium code
+src/main/resources: will contain configuration files
+src/test/java: contain the test cases
+src/test/resources: will contain test data file
+
+Design Pattern:
+POM: Page Object Model >> one class for each page
+
+Info available:
+test cases:
+	will know what is the test data
+	will know what are we testing
+	what is the expected output
+	does not know how to test
+	does not know the actual output
+	any webdriver line or code should not be present here
+	
+code
+	knows how to test
+	knows the actual output
+	any testng code should not be present here
+	
+
