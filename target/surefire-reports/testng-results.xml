@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T16:24:15 IST" name="Suite" finished-at="2023-01-29T16:25:59 IST" duration-ms="103235">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T16:24:15 IST" name="Test" finished-at="2023-01-29T16:25:59 IST" duration-ms="103235">
+      <class name="com.excelr.testcases.LoginPageTest">
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:15 IST" name="browserConfig" finished-at="2023-01-29T16:24:31 IST" duration-ms="15732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="companyLink()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:31 IST" name="companyLink" finished-at="2023-01-29T16:24:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyLink -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:31 IST" name="closeBrowser" finished-at="2023-01-29T16:24:32 IST" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:32 IST" name="browserConfig" finished-at="2023-01-29T16:24:44 IST" duration-ms="12369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="forgotPassword()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:44 IST" name="forgotPassword" finished-at="2023-01-29T16:24:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:44 IST" name="closeBrowser" finished-at="2023-01-29T16:24:45 IST" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:45 IST" name="browserConfig" finished-at="2023-01-29T16:24:56 IST" duration-ms="10353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="validateLogin()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:56 IST" name="validateLogin" finished-at="2023-01-29T16:24:58 IST" duration-ms="2535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:58 IST" name="closeBrowser" finished-at="2023-01-29T16:24:59 IST" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:24:59 IST" name="browserConfig" finished-at="2023-01-29T16:25:14 IST" duration-ms="14654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="validateTitle()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:25:14 IST" name="validateTitle" finished-at="2023-01-29T16:25:14 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.LoginPageTest@3c77d488]" started-at="2023-01-29T16:25:14 IST" name="closeBrowser" finished-at="2023-01-29T16:25:15 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.excelr.testcases.LoginPageTest -->
+      <class name="com.excelr.testcases.DashboardPageTest">
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:15 IST" name="browserConfig" finished-at="2023-01-29T16:25:26 IST" duration-ms="11185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="quickLaunchSection()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:26 IST" name="quickLaunchSection" finished-at="2023-01-29T16:25:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickLaunchSection -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:26 IST" name="closeBrowser" finished-at="2023-01-29T16:25:27 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:27 IST" name="browserConfig" finished-at="2023-01-29T16:25:39 IST" duration-ms="12196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="validateMyActionSection()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:39 IST" name="validateMyActionSection" finished-at="2023-01-29T16:25:42 IST" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMyActionSection -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:42 IST" name="closeBrowser" finished-at="2023-01-29T16:25:43 IST" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserConfig()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:43 IST" name="browserConfig" finished-at="2023-01-29T16:25:58 IST" duration-ms="14483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method signature="validateTimeAtWorkSection()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:58 IST" name="validateTimeAtWorkSection" finished-at="2023-01-29T16:25:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTimeAtWorkSection -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.excelr.testcases.DashboardPageTest@196a42c3]" started-at="2023-01-29T16:25:58 IST" name="closeBrowser" finished-at="2023-01-29T16:25:59 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.excelr.testcases.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
